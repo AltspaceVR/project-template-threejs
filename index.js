@@ -34,4 +34,4 @@
 	exports.sim = sim;
 	exports.box = box;
 }
-)(window.project = window.project || {});
+)(window.MyProject = window.MyProject || {});
